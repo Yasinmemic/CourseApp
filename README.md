@@ -1,2 +1,2 @@
 # CourseApp
- Dependencies used: Swagger - Flyway - Security - ModelMapper - Mysql5.5
+Dependencies used: Swagger - Flyway - Security - Lombok - Data-Jpa - ModelMapper - Mysql5.5
